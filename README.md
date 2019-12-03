@@ -1,13 +1,6 @@
-# NgTodo
+# Ng Todo
 
 Todo App made with **_Angular_**
-
-## Contributors
-
-[Sam Borick](https://github.com/mibzman)
-[Tyler Mendes de Brito](https://github.com/tylerbryto)
-[Sunil Sandhu](https://github.com/sunil-sandhu)
-
 
 ## Development server
 
